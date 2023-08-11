@@ -1,0 +1,19 @@
+{
+  "name": "twitter-api-node-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinPoulson/Twitter-API-Node-Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinPoulson/Twitter-API-Node-Template/issues"
+  },
+  "homepage": "https://github.com/AustinPoulson/Twitter-API-Node-Template#readme"
+}
